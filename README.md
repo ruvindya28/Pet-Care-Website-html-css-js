@@ -1,4 +1,5 @@
 # Pet-Care-Website-html-css-js
+<img src="https://github.com/ruvindya28/Pet-Care-Website-html-css-js/blob/main/img/Pet%20care-cover.jpeg"/>
 
 Description
 This is a responsive pet care shop website showcasing my projects, skills, and contact information. The website is built using HTML, CSS, and JavaScript, designed to provide an engaging user experience with smooth animations and a clean interface.

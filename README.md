@@ -4,8 +4,9 @@ Description
 This is a responsive pet care shop website showcasing my projects, skills, and contact information. The website is built using HTML, CSS, and JavaScript, designed to provide an engaging user experience with smooth animations and a clean interface.
 
 
-🌟 Check out the live demo here:
-🌟 Github Respositary :
+🌟 Check out the live demo here:  https://ruvindya28.github.io/Pet-Care-Website-html-css-js/
+
+🌟 Github Respositary : https://github.com/ruvindya28/Pet-Care-Website-html-css-js
 
 ✨ Features
 
